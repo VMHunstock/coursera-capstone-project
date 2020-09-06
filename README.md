@@ -10,11 +10,15 @@
 
 #Results 
 #This section discusses the results.
+#The resuts provide a direction in terms of which city locations to avoid while driving during unfavourable weather conditinos like rain, ice etc., based on historical accident severity in these locations. The reslts might be useful for city planners and road infratructure planners, policemem and traffic wardens, as well as emergency medical personnel. 
 
 #Discussion 
 #This section discusses any observations noted and any recommendations which can be made based on the results.
+#It can be seen that the dataset has some advantages, while some shortcomings. These may need further investigation.
 
 #Conclusion 
 #This section concludes the report.
+#Summarizing, the report established city locations to avoid while driving during unfavourable weather conditinos like rain, ice etc., based on historical accident severity in these locations. 
 
 #3. Presentation or blogpost. (10 marks)
+#Please see GitHub.
