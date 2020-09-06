@@ -1,13 +1,6 @@
 # coursera-capstone-project
 Coursera IBM Data Science Capstone
 
-Table of contents
-Introduction & Problem
-Data
-Methodology & Analysis
-Results & Discussion 
-Conclusion
-
 Introduction & Problem
 
 This project establishes city locations to avoid while driving during unfavourable weather conditinos like rain, ice etc., based on historical accident severity in these locations. The targt audience are city planners and road infratructure planners, policemem and traffic wardens, as well as emergency medical personnel. 
